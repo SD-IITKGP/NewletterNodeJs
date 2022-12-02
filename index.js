@@ -46,8 +46,3 @@ app.post("/faliure", function (req, res) {
 app.listen(3000, function () {
   console.log("server running at port 3000");
 });
-
-//API Key
-//4c044051d68f31dcf6b3b102d887618a-us9
-//audience id
-//2daac7e427
